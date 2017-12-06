@@ -1,2 +1,4 @@
 # hello-word
-for learning
+
+I'am Sharon.
+Nice to meet you!
